@@ -1,3 +1,5 @@
+//Clase que se da en canvas
+
 public class BinaryTree<E>
 {
 
